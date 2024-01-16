@@ -4,15 +4,15 @@ stats:
   # description: |      # required
   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
+    - title: <span>13</span>
       description: Institutions
       background: /assets/images/placeholders/institutions_small.jpg
       href: /institution/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?&displayOnNHCPortal=true">45</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?&institutionKey=be5b9c72-e499-42b8-a5dc-c27505cf232e&institutionKey=586ee56e-b0fe-4dff-b7f9-aeb104f3308a&institutionKey=e71f36f1-e271-4720-a604-3c5a1418e7aa&institutionKey=689b4219-8256-4c6e-890b-2e81405d4c58&institutionKey=2fc908ba-e775-49e2-bffe-6b9041c3b70f&institutionKey=1757f021-01b8-4d20-a11a-1da09db2d8b2&institutionKey=dc02e848-9e1f-4dd0-8078-2eb60620d39b&institutionKey=0e919a55-08d3-4bd2-aec1-200858fafd92&institutionKey=6a6ac6c5-1b8a-48db-91a2-f8661274ff80&institutionKey=ac439ab0-b80a-43ea-b2c3-bdaeaf0a52bd&institutionKey=d742cdc8-729f-4a22-8f2c-84c4bd9dc11b&institutionKey=2bea4bb3-e0fa-46be-88fb-e311b23804e8&institutionKey=482f84ca-5fe3-4dd3-86da-b7cf974d6427&institutionKey=6fa52ae0-546b-4a4b-845d-e2014aa68b78&institutionKey=9384011e-4d9b-4488-a5dd-5cb67a3c17f7&institutionKey=9e6a502b-7a44-41f4-a8df-ee15070060c0&institutionKey=68fcaba0-61fe-4e78-a460-4f37654d025d&institutionKey=1a69e6fc-4a8d-44d5-90a6-a7dc7a1aa7c7&institutionKey=1d808a7c-1f9e-4379-9616-edb749ecf10e&institutionKey=c2bfdeef-9c03-435e-8465-c483dadd6995&institutionKey=feac3986-5450-4dac-be9b-51bee542d10b&institutionKey=d2a27206-87ab-47ea-b5fc-d2e57054b688">45</span>
       description: Collections
       background: /assets/images/placeholders/collections_small.jpg
       href: /collection/search
-    - title: "54 million"
+    - title: "45 million"
       description: Digitized specimens
       background: /assets/images/placeholders/specimen.png
 
